@@ -1,7 +1,6 @@
-run = ["cargo", "run"]
+run = "cargo run"
 hidden = ["target"]
 
-entrypoint = "src/main.rs"
 
 [packager]
 language = "rust"
