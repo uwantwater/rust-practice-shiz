@@ -7,3 +7,4 @@ This repo might contain basic-intermediate level projects.
 Also, I plan to implement solutions in Rust for problem sets in Harvard's CS50 that were originally designed for C.
 
 I'll be using replit as a code editor for this repo.
+I am familiar with programming so I will be using the official docs for rust to learn rust.
